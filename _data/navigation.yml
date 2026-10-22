@@ -11,20 +11,15 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Talks & Teaching"
     url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
     
+  - title: "Projects"
+  url: /projects/
+
   - title: "CV"
     url: /cv/
-    
-  - title: "Projects"
-    url: /projects/
+
