@@ -13,6 +13,6 @@ Projects found: {{ site.projects.size }}
 - {{ project.title }}
 {% endfor %}
 
-% for project in site.projects %}
+{% for project in site.projects %}
   {% include archive-single.html %}
 {% endfor %}
