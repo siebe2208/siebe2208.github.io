@@ -1,1 +1,2 @@
-Further information on my current projects, conference presentations, publications, and academic activities can be found through the link found in this repository.
+Further information on my current projects, conference presentations, publications, and academic activities can be found 
+through the link found in this repository. This page was made using the template from academicpages.github.io.
