@@ -5,11 +5,8 @@ permalink: /projects/
 author_profile: true
 ---
 
-Projects found: {{ site.projects.size }}
+Below are my ongoing research projects and studies:
 
-{% for project in site.projects %}
-### {{ project.title }}
-
-{{ project.excerpt }}
-
+{% for post in site.projects %}
+  {% include archive-single.html %}
 {% endfor %}
